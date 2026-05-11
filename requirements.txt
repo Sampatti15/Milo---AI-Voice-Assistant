@@ -1,0 +1,6 @@
+1. SpeechRecognition
+2. pyttsx3
+3. wikipedia-api
+4. pywhatkit
+5. requests
+6. pyaudio
